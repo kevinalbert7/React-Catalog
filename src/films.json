@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "A Wrinkle in Time",
+        "director": "Ava DuVernay",
+        "stars": [
+            "Storm Reid",
+            "Oprah Winfrey",
+            "Reese Witherspoon"
+        ],
+            "image": "https://via.placeholder.com/150",
+            "description": "Following the discovery of a new form of space travel as well as Meg's father's disappearance, she, her brother, and"
+    },
+    {
+        "id": 2,
+        "title": "The Strangers: Prey at Night",
+        "director": "Johannes Roberts",
+            "stars": [
+            "Christina Hendricks",
+            "Bailee Madison",
+            "Martin Henderson"
+        ],
+        "image": "https://via.placeholder.com/150",
+        "description": "A family's road trip takes a dangerous turn when they arrive at a secluded mobile home park to stay with some relati"
+    },
+    {
+        "id": 3,
+        "title": "The Hurricane Heist",
+        "director": "Rob Cohen",
+        "stars": [
+            "Toby Kebbell",
+            "Maggie Grace",
+            "Ryan Kwanten"
+        ],
+        "image": "https://via.placeholder.com/150",
+        "description": "Thieves attempt a massive heist against the U.S. Treasury as a Category 5 hurricane approaches one of its Mint faci"
+    },
+    {
+        "id": 4,
+        "title": "Gringo",
+        "director": "Nash Edgerton",
+        "stars": [
+            "Joel Edgerton",
+            "Charlize Theron",
+            "David Oyelowo"
+        ],
+    "image": "https://via.placeholder.com/150",
+    "description": "GRINGO, a dark comedy mixed with white-knuckle action and dramatic intrigue, explores the battle of survival for bus"
+    },
+    {
+        "id": 5,
+        "title": "Thoroughbreds",
+        "director": "Cory Finley",
+        "stars": [
+            "Anya Taylor-Joy",
+            "Olivia Cooke",
+            "Anton Yelchin"
+        ],
+        "image": "https://via.placeholder.com/150",
+        "description": "Two upper-class teenage girls in suburban Connecticut rekindle their unlikely friendship after years of growing apa"
+    },
+    {
+        "id": 6,
+        "title": "The Leisure Seeker",
+        "director": "Paolo Virzì",
+        "stars": [
+            "Helen Mirren",
+            "Donald Sutherland",
+            "Janel Moloney"
+        ],
+        "image": "https://via.placeholder.com/150",
+        "description": "A runaway couple goes on an unforgettable journey in the faithful old RV they call The Leisure Seeker, traveling fro"
+    },
+    {
+        "id": 7,
+        "title": "Black Panther",
+        "director": "Ryan Coogler",
+        "stars": [
+            "Chadwick Boseman",
+            "Michael B. Jordan",
+            "Lupita Nyong'o"
+        ],
+        "image": "https://via.placeholder.com/150",
+        "description": "T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his"
+    },
+    {
+        "id": 8,
+        "title": "Red Sparrow",
+        "director": "Francis Lawrence",
+        "stars": [
+            "Jennifer Lawrence",
+            "Joel Edgerton",
+            "Matthias Schoenaerts"
+        ],
+        "image": "https://via.placeholder.com/150",
+        "description": "Ballerina Dominika Egorova is recruited to 'Sparrow School,' a Russian intelligence service where she is forced to"
+    }
+]
