@@ -10,8 +10,11 @@ class Home extends Component {
                 <h1>Home</h1>
                 {films.map(film =>
                     <ul>
-                        <li>
-                            <Link to={`/Films/${film.id}`}>{film.title}</Link> 
+                        <li key={film.id} >
+                            <Link 
+                                to={`/films/${film.id}`}
+                                onClick={this.handleChangePage}
+                            >{film.title}</Link> 
                         </li>
                     </ul>
                 )}
